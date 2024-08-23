@@ -15,3 +15,9 @@ I'm a software developer from the UK with an interest in game development.
 **Interesting things:**
 - I really like the syntax of Kotlin, but I hate using it because of the smoking pile of 💩🤬 that is Gradle.
 - The best game framework for syntax is Pygame-ce. The only problem is no web 🕸️ support ☹️.
+- I'm also into 3d printing and electronics.
+
+**Hot takes 🔥**
+- Gradle sucks. (This isn't really a hot take).
+- Gradle reallly sucks.
+- 
