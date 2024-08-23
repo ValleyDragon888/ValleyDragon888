@@ -20,4 +20,8 @@ I'm a software developer from the UK with an interest in game development.
 **Hot takes 🔥**
 - Gradle sucks. (This isn't really a hot take).
 - Gradle reallly sucks.
-- 
+
+At the moment, I'm:
+- Staying away from Kotlin/Gradle
+- Wishing I was running Linux like I used to.
+- Making a crazy-golf inspired godot game with a friend.
