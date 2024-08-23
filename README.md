@@ -11,6 +11,7 @@ I'm a software developer from the UK with an interest in game development.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="80" alt="python logo"  />
   <img width="12" />
 </div>
+**Frameworks**: macroquad.rs, pygame-ce
 
 **Interesting things:**
 - I really like the syntax of Kotlin, but I hate using it because of the smoking pile of 💩🤬 that is Gradle.
