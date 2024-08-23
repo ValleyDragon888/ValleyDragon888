@@ -28,3 +28,9 @@ At the moment, I'm:
 - Staying away from Kotlin/Gradle (Rant beginning...)
 - Wishing I was running Linux like I used to. ☹️
 - Making a crazy-golf inspired godot game with a friend.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValleyDragon888&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" width="700" alt="stats graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=ValleyDragon888&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValleyDragon888&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
+</div>
