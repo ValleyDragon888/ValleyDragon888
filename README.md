@@ -36,3 +36,4 @@ At the moment, I'm:
   <img src="https://streak-stats.demolab.com?user=ValleyDragon888&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValleyDragon888&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
 </div>
+[I would note that although this says javascript as being significant, I have never written a line in my life. This all comes from several MASSIVE files that the developer of macroquad wrote to load wasm into the browser]
